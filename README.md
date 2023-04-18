@@ -1,1 +1,1 @@
-This program can calculate simple numbers.
+This is a simple calculator.
