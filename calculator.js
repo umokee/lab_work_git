@@ -28,6 +28,5 @@ function calculate({a, b, operation}) {
         default:
             break;
     }
-
     return result;
 }
