@@ -4,7 +4,7 @@ const OPERATIONS = {
     multiply: '*',
     division: '/',
 }
-// комментарий
+
 function calculate({a, b, operation}) {
     let result = null;
 
